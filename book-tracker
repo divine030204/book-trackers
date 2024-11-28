@@ -4,6 +4,7 @@
      <head>
          <meta charset="UTF-8">
          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		 <link rel="stylesheet"href="add-css-style">
          <title>Book Trackers</title>
      </head>
      <body>
@@ -24,7 +25,7 @@
                             <td>Sample Authors</td>
                             <td>Not Started</td>
                         </tr>
-						<link rel="stylesheet"href="add-css-style">
+						
                     </tbody>
                 </table>
             </main>       
