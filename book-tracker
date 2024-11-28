@@ -4,7 +4,7 @@
      <head>
          <meta charset="UTF-8">
          <meta name="viewport" content="width=device-width, initial-scale=1.0">
-         <title>Book Tracker</title>
+         <title>Book Trackers</title>
      </head>
      <body>
         <header>
@@ -13,15 +13,15 @@
                     <thead>
                         <tr>
                             <th>Book Title</th>
-                            <th>Author</th>
+                            <th>Authors</th>
                             <th>Status</th>
                         </tr>
                     </thead>
                     <tbody>
                         <!-- Placeholder rows -->
                         <tr>
-                            <td>Sample Book</td>
-                            <td>Sample Author</td>
+                            <td>Sample Books</td>
+                            <td>Sample Authors</td>
                             <td>Not Started</td>
                         </tr>
                     </tbody>
