@@ -8,7 +8,26 @@
      </head>
      <body>
         <header>
-            
+            <main>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Book Title</th>
+                            <th>Author</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Placeholder rows -->
+                        <tr>
+                            <td>Sample Book</td>
+                            <td>Sample Author</td>
+                            <td>Not Started</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </main>
+       
         </header>
      </body>
      </html>
